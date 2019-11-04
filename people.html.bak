@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">	 
+	<title>project0</title>
+	<meta name="viewport" content="widht=device-widht">
+	<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700,700i&display=swap" rel="stylesheet">	
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/style.css">
+	
+</head>
+   <body>
+      <header id="header" class="header">
+        <div class="container">	     
+          <div class="row">
+		    <div class="col-lg-3">
+		       <img src="img/P2220326.JPG" alt="My_foto" class="img rounded-circle">			   
+		    </div>
+			   <div class="col-lg-8 ml-auto">				
+				 <ul class="menu d-flex justify-content-center">
+                    <li class="list-inline-item">
+                      <a href="index.html">
+                       <h3> My Profil</h3> 
+                      </a>
+                    </li>
+                         <li class="list-inline-item"> <a href="country.html">
+					    <h3> Country</h3>
+                         </a>
+                    </li>
+                          <li class="list-inline-item"><a href="city.html">
+						  <h3>City</h3>
+                          </a>
+                    </li>
+                          <li class="list-inline-item">       <a href="people.html">
+						 <h3>Piople</h3>
+                          </a>
+                     </li>  
+                 </ul>			      
+			   </div>
+		     </div>
+          </div>			 
+       </header>	   
+                          <section id="maininfo" class="maininfo"> 	     
+                           <div class="row">
+                             <div class="col-md-4">
+                              <div class="thumbnail">
+                               <a href="img/9.JPG" title="The Estonian Song Festival" >							   
+                                <img src="img/9.JPG" alt="1" style="width:100%">
+								 </a>
+                                  <div class="caption">								   
+                                    <p>The Estonian Song Festival is a national and national singing festival in which choirs and brass bands take part. The festival is held every five years in the Tallinn Singing Field.</p>
+                                  </div>               
+                             </div>
+                           </div>
+                                 <div class="col-md-4">
+                                   <div class="thumbnail">
+                                     <a href="img/10.JPG" title="medieval markets" >
+                                      <img src="img/10.JPG" alt="Nature" style="width:100%">
+									  </a>
+                                        <div class="caption">										
+                                          <p>So every year in July in many ancient cities of Estonia the Middle Ages are held. These days on the city streets and squares you can watch the festive processions of artisans, medieval markets open, craft workshops operate, and merchants sell their goods in shops.</p>										  
+                                        </div>                                      
+                                     </div>
+                                   </div> 
+                                        <div class="col-md-4">
+                                          <div class="thumbnail">
+                                            <a href="img/12.JPG" title="Yaanov or Midsummer Day" >   
+                                             <img src="img/12.JPG" alt="12" style="width:100%">
+											 </a>
+                                              <div class="caption">											  
+                                                <p>The summer equinox revives the magic of ancient legends in the cities and villages of Estonia.
+                                                    Yaanov or Midsummer Day marks the peak of the summer season. Estonians, like their kindred Finns, consider this holiday one of the most important of the year. Jaanov day traditions are rooted in pre-Christian fertility magic rituals preserved in Estonian root folk culture.</p>
+                                             </div>											
+                                          </div>
+                                        </div>
+                                             <div class="col-md-4">
+                                               <div class="thumbnail">
+                                                 <a href="img/13.JPG" title="students">
+                                                  <img src="img/13.JPG" alt="13" style="width:100%">
+												  </a>
+                                                   <div class="caption">												   
+                                                    <p>An innovative environment, combined with great value for money, has made Estonia a desirable destination for both students and researchers in a knowledge-based society.</p>
+                                                  </div>                                               
+                                             </div>
+                                           </div>
+                                               <div class="col-md-4">
+                                                 <div class="thumbnail">
+                                                   <a href="img/16.JPG" title="The youth song and dance festival">
+                                                     <img src="img/16.JPG" alt="16" style="width:100%">
+													   </a>
+                                                       <div class="caption">												 
+                                                        <p>The youth song and dance festival in Estonia is a large-scale, grandiose and incredibly significant event for every Estonian. Once every 5 years in the middle of summer for a week, the vast majority of young Estonians wear national clothes and unite in dance and song, taking them to distant ancestors.</p>
+                                                      </div>                                                    
+                                                 </div>
+                                               </div>
+                                                   <div class="col-md-4">
+                                                    <div class="thumbnail">
+                                                     <a href="img/14.JPG" title="the great Church holidays">
+                                                      <img src="img/14.JPG" alt="14" style="width:100%">
+													 </a> 
+                                                       <div class="caption">					    
+                                                        <p>Each time during the days of the great Church holidays, the clergy gather in the cathedral in order to congratulate their Archpastor on a festive event. At the service, Metropolitan Eugene read the Gospel reading dedicated to the event of the birth of the Divine Infant Christ. The gospel was read in Slavic and Estonian.</p>
+                                                     </div>                                                    
+                                                  </div>
+                                                </div>
+                                              </div> 										 
+	     <div class="container">
+		   <div class="row">	
+		     <div class="col-lg-12">
+        	   <div class= "maininfo__text">
+				 <h2> Interesting Facts</h2>				
+				    <div class="maininfo__intro">
+<p>With the largest collection of folk songs in the world, 133,000 recorded tunes, Estonia has aptly been called the "singing nation". The lyrical tradition culminates every five years in the Estonian Song and Dance Celebration, a gathering of up to 200,000 performers and spectators.</p>
+
+<p> Estonia is a digital society which was the first country to implement online voting in 2005, and virtually all tax returns are filed electronically. Citizens can sign legal documents remotely with their ID cards and anyone in the world can apply to be an e-resident. And yes, it's true - there is 4G coverage even in the middle of the woods.</p>
+
+<p>As a child, you've surely dreamt of swinging so high that you go sailing over the top of the swing set. Estonians have turned this fantasy into a sport called 'Kiiking' (kiik is Estonian for swing). It involves strapping yourself upright onto an enormous swing and vigorously pumping your whole body with the goal of rotating 360 degrees. Your inner child will love it.</p>
+
+<p>Of all the trees in Estonia, a towering oak in the village of Orissaare, Saaremaa is undoubtedly the most famous. It was voted European Tree of the Year in 2015 and stands right in the middle of a football field. Story has it that during Soviet times, two tractors tried to remove it but were no match for the mighty oak.</p>                      
+                       </div>
+				   </div>
+			   </div>
+		 </div>
+	 </div>      
+  </section>
+          <section id="footer" class="footer">
+	          <div class="container">
+	             <div class="row">
+	               <div class="col-lg-12">
+		             <div class="footer">		               
+		                  Copyright &#169;<time datetime="2019">2019</time> 
+                             Sergei Vassiljuk							  
+                              <address>Tallinn, Estonia.</address>						  
+		         </div>
+		     </div>
+		  </div>	  
+	  </div> 
+ </section> 
+ </body>
+    </html>

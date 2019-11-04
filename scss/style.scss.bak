@@ -1,0 +1,95 @@
+$backgroundColor: #FFDEAD !global ;
+body {
+	margin:0 0 0 0;
+	padding:0 10% 60px 10%;
+	font-size:16px;
+	display:block;
+	background-color:$backgroundColor;
+}
+*|h2 {
+   color: red;
+ }  
+ * [title]  {
+	  color: #8B4513;
+   }
+#header {
+         margin-top: 40px;
+		 margin-bottom: 20px;		 
+ .menu  li {
+            padding: 20px; 
+   a:visited {font-size:16px; color:DarkRed}		 
+    a:hover {font-size:36px; color:Tomato}		 
+            text-shadow: 1px 1px white, 2px 2px white, -1px -1px white, -2px -2px white, -1px 1px white, 1px -1px white, -2px 2px white, 2px -2px white, -3px -3px 4px rgba(0,0,0,.3), -3px 3px 4px rgba(0,0,0,.3), 3px 3px 4px rgba(0,0,0,.3), 3px -3px 4px rgba(0,0,0,.3); 	 
+}      
+}
+.carousel-control-prev-icon, .carousel-control-next-icon 
+         {
+			 height: 50px;
+		     width: 50px;
+	}
+#maininfo { margin-bottom: 100px;
+            text-align: center;
+		     margin-top:30px;
+		  }
+   .maininfo__intro {
+             text-align: left;
+			 margin-top: 30px;
+}
+html  {   
+       position:relative;
+       min-height:100%;
+}	   
+ .table {
+     text-align: center;
+	  background-color:$backgroundColor ;
+  padding: 2rem 2rem;
+  color: #8B4513;
+    width: 100%;
+  } 
+  table tr { 
+    padding: 5px;
+  } 
+  table th, table td {
+    padding: 10px;
+    text-align: center; 
+  } 
+  table th {
+    color: #8B4513;
+    background-color: $backgroundColor;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 1px;
+  }
+@media screen and (max-width: 700px) { 
+  table thead {
+    display: none;
+  }
+  table tr {
+    margin-bottom: 10px;
+    display: block;
+	text-align: right;  
+  }
+  table td {
+    display: block;
+    text-align: right;
+    font-size: 13px;
+  }
+  
+  table td:before {
+    content: attr(data-label);
+    float: left;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  }
+#footer {
+         position:absolute;
+         bottom:0;
+         left:0;
+         padding:20px 0; 
+         background:#D2691E;
+         color:#fff;
+         text-align:center; 
+         width:100%;
+		 font-size: 22px;
+}
